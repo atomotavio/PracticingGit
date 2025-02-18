@@ -13,3 +13,5 @@ git merge - Join two or more development histories together
 git push - Update remote refs along with associated objects
 git pull - Fetch from and integrate with another repository or a local branch
 git clone - Clone a repository into a new directory
+
+## Author: Otavio
