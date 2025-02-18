@@ -1,0 +1,1 @@
+# Practicing using git with terminal
